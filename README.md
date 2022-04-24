@@ -17,7 +17,7 @@ Streamlit, dataclasses, typing and  Web3 libraries have been imported and utilie
 
 ### Sender Balance
 
-![](Starter-Code\Result_Images\Sender_balance.PNG)
+![](\Starter-Code\Result_Images\Sender_balance.PNG)
 
 ### Transaction Details
 
