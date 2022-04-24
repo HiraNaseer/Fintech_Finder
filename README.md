@@ -13,7 +13,7 @@ Streamlit, dataclasses, typing and  Web3 libraries have been imported and utilie
 
 ![](Starter-Code\Result_Images\Webapp_browser_screenshot.PNG)
 
-![alt text](Starter-Code\Sender_balance.PNG)
+![alt text](Starter-Code/Sender_balance.PNG)
 
 ### Sender Balance
 
